@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprite", "Sprite\Sprite.csproj", "{3A173541-F01E-4F43-A071-2332F5C8D44A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing\Testing.csproj", "{41D87347-CDE7-441B-8538-F9CD73CBFE3B}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TestingContent", "Testing\TestingContent\TestingContent.contentproj", "{B7E6ADB0-6D3A-4256-924A-C4AEEC2804C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A173541-F01E-4F43-A071-2332F5C8D44A}.Debug|x86.ActiveCfg = Debug|x86
+		{3A173541-F01E-4F43-A071-2332F5C8D44A}.Debug|x86.Build.0 = Debug|x86
+		{3A173541-F01E-4F43-A071-2332F5C8D44A}.Release|x86.ActiveCfg = Release|x86
+		{3A173541-F01E-4F43-A071-2332F5C8D44A}.Release|x86.Build.0 = Release|x86
+		{41D87347-CDE7-441B-8538-F9CD73CBFE3B}.Debug|x86.ActiveCfg = Debug|x86
+		{41D87347-CDE7-441B-8538-F9CD73CBFE3B}.Debug|x86.Build.0 = Debug|x86
+		{41D87347-CDE7-441B-8538-F9CD73CBFE3B}.Release|x86.ActiveCfg = Release|x86
+		{41D87347-CDE7-441B-8538-F9CD73CBFE3B}.Release|x86.Build.0 = Release|x86
+		{B7E6ADB0-6D3A-4256-924A-C4AEEC2804C2}.Debug|x86.ActiveCfg = Debug|x86
+		{B7E6ADB0-6D3A-4256-924A-C4AEEC2804C2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
