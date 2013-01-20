@@ -83,9 +83,10 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\TestingContent\TestingContent.contentproj">
-      <Name>TestingContent</Name>
+    <ProjectReference Include="..\TestingContent\GameIntegrationTestingContent.contentproj">
+      <Name>GameIntegrationTestingContent %28Content%29</Name>
       <XnaReferenceType>Content</XnaReferenceType>
+      <Project>{B7E6ADB0-6D3A-4256-924A-C4AEEC2804C2}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
