@@ -61,8 +61,14 @@
   <ItemGroup>
     <Compile Include="Sprite.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RuntimeContent.cs" />
+    <Compile Include="SpriteSheet.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Global\Global.csproj">
+      <Project>{8ac1ee0d-59a4-4055-bf73-c4a16311100f}</Project>
+      <Name>Global</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Utility\Utility.csproj">
       <Project>{70d65399-7402-47f2-bf03-230cc6a40dfe}</Project>
       <Name>Utility</Name>

@@ -1,0 +1,2 @@
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\obj\x86\Debug\GameIntegrationTesting.csprojResolveAssemblyReference.cache
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

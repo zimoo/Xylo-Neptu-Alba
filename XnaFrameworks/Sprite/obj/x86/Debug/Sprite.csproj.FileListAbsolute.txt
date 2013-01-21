@@ -1,0 +1,2 @@
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Sprite\obj\x86\Debug\Sprite.csprojResolveAssemblyReference.cache
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Sprite\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

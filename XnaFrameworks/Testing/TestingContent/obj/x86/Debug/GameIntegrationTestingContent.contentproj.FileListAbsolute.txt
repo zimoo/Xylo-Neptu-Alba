@@ -1,0 +1,1 @@
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\TestingContent\obj\x86\Debug\GameIntegrationTestingContent.contentprojResolveAssemblyReference.cache
