@@ -9,12 +9,12 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
-namespace XnaFramework.GameIntegrationTesting
+namespace XnaFramework.Demos.InputDemo
 {
     /// <summary>
     /// This is the main type for your game
     /// </summary>
-    public class Game : Microsoft.Xna.Framework.Game
+    public class InputDemoGame : Microsoft.Xna.Framework.Game
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
@@ -24,7 +24,7 @@ namespace XnaFramework.GameIntegrationTesting
         private MouseState _mouseState;
         private GamePadState _gamePadState;
 
-        public Game()
+        public InputDemoGame()
         {
             _graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
@@ -53,7 +53,7 @@ namespace XnaFramework.GameIntegrationTesting
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // TODO: use this.Content to load your game content here
-            _font = Content.Load<SpriteFont>("font1");
+            _font = Content.Load<SpriteFont>("SegoeUIMono");
         }
 
         /// <summary>
@@ -170,7 +170,7 @@ namespace XnaFramework.GameIntegrationTesting
             for (PlayerIndex p = PlayerIndex.One; p <= PlayerIndex.Four; p++)
             {
                 capabilities = GamePad.GetCapabilities(p);
-                Print(x,y,"GamePad " + p.ToString() + " : " + capabilities.IsConnected.ToString());
+                Print(x, y, "GamePad " + p.ToString() + " : " + capabilities.IsConnected.ToString());
                 y += offset;
             }
 
@@ -194,7 +194,7 @@ namespace XnaFramework.GameIntegrationTesting
 
         private void Print(int x, int y, string text)
         {
-            Print(x,y,text, Color.White);
+            Print(x, y, text, Color.White);
         }
 
         private void Print(int x, int y, string text, Color color)

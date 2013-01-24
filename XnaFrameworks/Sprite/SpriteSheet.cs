@@ -12,12 +12,12 @@ using Microsoft.Xna.Framework.Media;
 
 namespace XnaFramework.Sprite
 {
-    public class SpriteSheet : RuntimeContent<Texture2D>
+    public class SpriteSheet //: RuntimeAsset<Texture2D>
     {
-        public SpriteSheet(Game game)
-            : base(game)
-        {
+        //public SpriteSheet(Game game)
+        //    : base(game)
+        //{
 
-        }
+        //}
     }
 }

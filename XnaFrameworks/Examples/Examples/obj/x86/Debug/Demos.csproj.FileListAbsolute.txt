@@ -1,0 +1,6 @@
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\bin\x86\Debug\Demos.exe
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\bin\x86\Debug\Demos.pdb
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\Demos.csprojResolveAssemblyReference.cache
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\Demos.exe
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\Demos.pdb

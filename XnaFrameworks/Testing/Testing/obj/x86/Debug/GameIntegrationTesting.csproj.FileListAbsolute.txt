@@ -1,2 +1,6 @@
 C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\obj\x86\Debug\GameIntegrationTesting.csprojResolveAssemblyReference.cache
 C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\bin\x86\Debug\XnaFramework.GameIntegrationTesting.exe
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\bin\x86\Debug\XnaFramework.GameIntegrationTesting.pdb
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\obj\x86\Debug\XnaFramework.GameIntegrationTesting.exe
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Testing\Testing\obj\x86\Debug\XnaFramework.GameIntegrationTesting.pdb

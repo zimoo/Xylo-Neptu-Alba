@@ -22,7 +22,7 @@ namespace XnaFramework.Sprite
         private List<Sprite> _sprites;
         public List<Sprite> Sprites { get { return _sprites.AsReadOnly().ToList(); } }
 
-        public RuntimeContent<Texture2D> RuntimeContent { get; protected set; }
+        public RuntimeAsset<Texture2D> RuntimeAsset { get; protected set; }
 
         private Vector2 _center;
         public Vector2 Center

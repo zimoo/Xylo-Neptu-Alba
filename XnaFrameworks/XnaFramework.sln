@@ -5,11 +5,17 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sprite", "Sprite\Sprite.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameIntegrationTesting", "Testing\Testing\GameIntegrationTesting.csproj", "{41D87347-CDE7-441B-8538-F9CD73CBFE3B}"
 EndProject
-Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameIntegrationTestingContent", "Testing\TestingContent\GameIntegrationTestingContent.contentproj", "{B7E6ADB0-6D3A-4256-924A-C4AEEC2804C2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameIntegrationTestingContent", "Testing\TestingContent\GameIntegrationTestingContent.contentproj", "{B7E6ADB0-6D3A-4256-924A-C4AEEC2804C2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{70D65399-7402-47F2-BF03-230CC6A40DFE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Global", "Global\Global.csproj", "{8AC1EE0D-59A4-4055-BF73-C4A16311100F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputDemo", "Examples\Examples\InputDemo.csproj", "{2C20130E-E152-42F3-BC2F-E31D14F2D56D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputDemoContent", "Examples\ExamplesContent\InputDemoContent.contentproj", "{9B4C2A39-00FF-4418-AC5A-02A1D7344C75}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Demos", "Demos", "{B8F0F10C-79AF-4EF3-9112-62215B94874E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -67,8 +73,28 @@ Global
 		{8AC1EE0D-59A4-4055-BF73-C4A16311100F}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{8AC1EE0D-59A4-4055-BF73-C4A16311100F}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{8AC1EE0D-59A4-4055-BF73-C4A16311100F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Debug|x86.ActiveCfg = Debug|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Debug|x86.Build.0 = Debug|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Release|Any CPU.ActiveCfg = Release|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Release|Mixed Platforms.Build.0 = Release|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Release|x86.ActiveCfg = Release|x86
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D}.Release|x86.Build.0 = Release|x86
+		{9B4C2A39-00FF-4418-AC5A-02A1D7344C75}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9B4C2A39-00FF-4418-AC5A-02A1D7344C75}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{9B4C2A39-00FF-4418-AC5A-02A1D7344C75}.Debug|x86.ActiveCfg = Debug|x86
+		{9B4C2A39-00FF-4418-AC5A-02A1D7344C75}.Release|Any CPU.ActiveCfg = Release|x86
+		{9B4C2A39-00FF-4418-AC5A-02A1D7344C75}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{9B4C2A39-00FF-4418-AC5A-02A1D7344C75}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2C20130E-E152-42F3-BC2F-E31D14F2D56D} = {B8F0F10C-79AF-4EF3-9112-62215B94874E}
+		{9B4C2A39-00FF-4418-AC5A-02A1D7344C75} = {B8F0F10C-79AF-4EF3-9112-62215B94874E}
 	EndGlobalSection
 EndGlobal

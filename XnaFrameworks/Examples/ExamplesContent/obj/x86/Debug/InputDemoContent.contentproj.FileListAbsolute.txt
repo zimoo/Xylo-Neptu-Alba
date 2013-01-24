@@ -1,0 +1,1 @@
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\ExamplesContent\obj\x86\Debug\InputDemoContent.contentprojResolveAssemblyReference.cache

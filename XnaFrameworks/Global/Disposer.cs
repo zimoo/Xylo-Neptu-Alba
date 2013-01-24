@@ -69,7 +69,7 @@ namespace Global
             GC.SuppressFinalize(this);
         }
 
-        public void FinalizerDispose()
+        public void Disposing()
         {
             Dispose(false);
         }
@@ -104,7 +104,7 @@ namespace Global
         }
     }
 
-    /// Consider implementing SafeHandles rather than IntPtr finalizers if unmanaged resources are to be used
+    /// Consider implementing SafeHandles rather than IntPtr finalizers when unmanaged resources are to be used
     /// http://msdn.microsoft.com/en-us/library/fh21e17c.aspx
 
     //public class UnmanagedResource : IDisposable

@@ -1,0 +1,7 @@
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\bin\x86\Debug\XnaFramework.Demos.InputDemo.exe
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\bin\x86\Debug\XnaFramework.Demos.InputDemo.pdb
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\XnaFramework.Demos.InputDemo.exe
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\XnaFramework.Demos.InputDemo.pdb
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\obj\x86\Debug\InputDemo.csprojResolveAssemblyReference.cache
+C:\dev\git\Xylo-Neptu-Alba\XnaFrameworks\Examples\Examples\bin\x86\Debug\Content\SegoeUIMono.xnb

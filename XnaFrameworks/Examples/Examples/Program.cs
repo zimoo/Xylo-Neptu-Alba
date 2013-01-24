@@ -1,6 +1,6 @@
 using System;
 
-namespace XnaFramework.GameIntegrationTesting
+namespace XnaFramework.Demos.InputDemo
 {
 #if WINDOWS || XBOX
     static class Program
@@ -10,9 +10,9 @@ namespace XnaFramework.GameIntegrationTesting
         /// </summary>
         static void Main(string[] args)
         {
-            using (Game game = new Game())
+            using (InputDemoGame inputDemoGame = new InputDemoGame())
             {
-                game.Run();
+                inputDemoGame.Run();
             }
         }
     }
